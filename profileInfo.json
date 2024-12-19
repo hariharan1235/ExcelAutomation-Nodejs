@@ -1,0 +1,86 @@
+[
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9tpAAC"
+    },
+    "Name": "CAR-T Call Center"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00eH2000000iKbXIAU"
+    },
+    "Name": "CART ReadOnly"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9tqAAC"
+    },
+    "Name": "CTAS"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9trAAC"
+    },
+    "Name": "CTAS Lead"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9tsAAC"
+    },
+    "Name": "Data Administrator"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M53CAAS"
+    },
+    "Name": "External Base User"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9ttAAC"
+    },
+    "Name": "Global Cell Collection"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e5g000003AVaWAAW"
+    },
+    "Name": "Read Only"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00eA2000000Uh09IAC"
+    },
+    "Name": "SMR Profile"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e5g000003AVaKAAW"
+    },
+    "Name": "System Administrator"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9tuAAC"
+    },
+    "Name": "VCI Integration User"
+  },
+  {
+    "attributes": {
+      "type": "Profile",
+      "url": "/services/data/v56.0/sobjects/Profile/00e1e000000M9tvAAC"
+    },
+    "Name": "Vein to Vein"
+  }
+]

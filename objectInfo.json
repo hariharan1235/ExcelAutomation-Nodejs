@@ -1,0 +1,946 @@
+[
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Account"
+    },
+    "QualifiedApiName": "Account",
+    "Label": "Account"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01IH2000000nE8B"
+    },
+    "QualifiedApiName": "Keywords__c",
+    "Label": "Adverse Event Keyword"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXr"
+    },
+    "QualifiedApiName": "AFSC__FS_Alert__c",
+    "Label": "Alert"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/AppointmentTopicTimeSlot"
+    },
+    "QualifiedApiName": "AppointmentTopicTimeSlot",
+    "Label": "Appointment Topic Time Slot"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xDu"
+    },
+    "QualifiedApiName": "OQSafeguard3__ArchivedEntityFeed__c",
+    "Label": "Archived Entity Feed"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xDw"
+    },
+    "QualifiedApiName": "OQSafeguard3__ArchivedFeedItem__c",
+    "Label": "Archived Feed Item"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xDv"
+    },
+    "QualifiedApiName": "OQSafeguard3__ArchivedFeedComment__c",
+    "Label": "ArchivedFeedComment"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND7"
+    },
+    "QualifiedApiName": "HealthCloudGA__ContactContactRelation__c",
+    "Label": "Associated Contact"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNCt"
+    },
+    "QualifiedApiName": "HealthCloudGA__CandidatePatient__c",
+    "Label": "Candidate Patient"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND1"
+    },
+    "QualifiedApiName": "HealthCloudGA__CarePlanTemplate__c",
+    "Label": "Care Plan Template"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNCy"
+    },
+    "QualifiedApiName": "HealthCloudGA__CarePlanTemplateGoal__c",
+    "Label": "Care Plan Template Goal"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNCz"
+    },
+    "QualifiedApiName": "HealthCloudGA__CarePlanTemplateProblem__c",
+    "Label": "Care Plan Template Problem"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND0"
+    },
+    "QualifiedApiName": "HealthCloudGA__CarePlanTemplateTask__c",
+    "Label": "Care Plan Template Task"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/CareProgram"
+    },
+    "QualifiedApiName": "CareProgram",
+    "Label": "Care Program"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016VGA"
+    },
+    "QualifiedApiName": "CareProgramAccountAssociation__c",
+    "Label": "Care Program - Account Association"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/CareProgramEnrollee"
+    },
+    "QualifiedApiName": "CareProgramEnrollee",
+    "Label": "Care Program Enrollee"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/CareProgramEnrolleeProduct"
+    },
+    "QualifiedApiName": "CareProgramEnrolleeProduct",
+    "Label": "Care Program Enrollee Product"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/CareProgramEnrollmentCard"
+    },
+    "QualifiedApiName": "CareProgramEnrollmentCard",
+    "Label": "Care Program Enrollment Card"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND2"
+    },
+    "QualifiedApiName": "HealthCloudGA__CareProgramPlanTemplate__c",
+    "Label": "Care Program Plan Template"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/CareProgramProduct"
+    },
+    "QualifiedApiName": "CareProgramProduct",
+    "Label": "Care Program Product"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/CareProgramProvider"
+    },
+    "QualifiedApiName": "CareProgramProvider",
+    "Label": "Care Program Provider"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Case"
+    },
+    "QualifiedApiName": "Case",
+    "Label": "Case"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01IH2000000nE8A"
+    },
+    "QualifiedApiName": "ChatterLogforAE__c",
+    "Label": "Chatter Log for AE"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND3"
+    },
+    "QualifiedApiName": "HealthCloudGA__Clinical_Assessment_Response__c",
+    "Label": "Clinical Assessment Response"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND6"
+    },
+    "QualifiedApiName": "HealthCloudGA__ConditionToHCCCodeMapping__c",
+    "Label": "Condition to HCC Code Mapping"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Contact"
+    },
+    "QualifiedApiName": "Contact",
+    "Label": "Contact"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXm"
+    },
+    "QualifiedApiName": "AFSC__FSContentScanJob__c",
+    "Label": "Content Scan Job"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dND8"
+    },
+    "QualifiedApiName": "HealthCloudGA__CrossObjectRelationship__c",
+    "Label": "Cross Object Relationship"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I0w000000azY5"
+    },
+    "QualifiedApiName": "OQSafeguard3__Dev_Custom_Fields__c",
+    "Label": "Dev_Custom_Field"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Document"
+    },
+    "QualifiedApiName": "Document",
+    "Label": "Document"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/DuplicateRecordSet"
+    },
+    "QualifiedApiName": "DuplicateRecordSet",
+    "Label": "Duplicate Record Set"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDE"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrAllergyIntolerance__c",
+    "Label": "EHR Allergy Intolerance"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDJ"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrCarePlan__c",
+    "Label": "EHR Care Plan"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDF"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrCarePlanActivity__c",
+    "Label": "EHR Care Plan Activity"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDG"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrCarePlanConcern__c",
+    "Label": "EHR Care Plan Concern"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDH"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrCarePlanGoal__c",
+    "Label": "EHR Care Plan Goal"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDI"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrCarePlanParticipant__c",
+    "Label": "EHR Care Plan Participant"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDL"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrCondition__c",
+    "Label": "EHR Condition"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDK"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrConditionRelatedItem__c",
+    "Label": "EHR Condition Related Item"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDM"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrDevice__c",
+    "Label": "EHR Device"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDN"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrDosageInstruction__c",
+    "Label": "EHR Dosage Instruction"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDQ"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrEncounter__c",
+    "Label": "EHR Encounter"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDO"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrEncounterAccomodation__c",
+    "Label": "EHR Encounter Accommodation"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDP"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrEncounterParticipant__c",
+    "Label": "EHR Encounter Participant"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDS"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrImmunization__c",
+    "Label": "EHR Immunization"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDR"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrImmunizationReaction__c",
+    "Label": "EHR Immunization Reaction"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDT"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrMedicationPrescription__c",
+    "Label": "EHR Medication Prescription"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDU"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrMedicationStatement__c",
+    "Label": "EHR Medication Statement"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDV"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrObservation__c",
+    "Label": "EHR Observation"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDY"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPatient__c",
+    "Label": "EHR Patient"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDW"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPatientCareProvider__c",
+    "Label": "EHR Patient Care Provider"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDX"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPatientContact__c",
+    "Label": "EHR Patient Contact"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDc"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPractitioner__c",
+    "Label": "EHR Practitioner"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDZ"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPractitionerIdentity__c",
+    "Label": "EHR Practitioner Identity"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDa"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPractitionerQualification__c",
+    "Label": "EHR Practitioner Qualification"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDb"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrPractitionerRole__c",
+    "Label": "EHR Practitioner Role"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDD"
+    },
+    "QualifiedApiName": "HealthCloudGA__EHRProcedure__c",
+    "Label": "EHR Procedure"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDB"
+    },
+    "QualifiedApiName": "HealthCloudGA__EHRProcedurePerformer__c",
+    "Label": "EHR Procedure Performer"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDC"
+    },
+    "QualifiedApiName": "HealthCloudGA__EHRProcedureRequest__c",
+    "Label": "EHR Procedure Request"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDd"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrRelatedObservation__c",
+    "Label": "EHR Related Observation"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDe"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrRelatedPerson__c",
+    "Label": "EHR Related Person"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDf"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrVaccinationProtocol__c",
+    "Label": "EHR Vaccination Protocol"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDh"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrVirtualDevice__c",
+    "Label": "EHR Virtual Device"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDg"
+    },
+    "QualifiedApiName": "HealthCloudGA__EhrVirtualDeviceChannel__c",
+    "Label": "EHR Virtual Device Channel"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXs"
+    },
+    "QualifiedApiName": "AFSC__FS_Exclusion__c",
+    "Label": "Exclusion"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I0w000000aCUc"
+    },
+    "QualifiedApiName": "ExternalApplicationDeeplink__c",
+    "Label": "External Application Deeplink"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXn"
+    },
+    "QualifiedApiName": "AFSC__FSFileScanLog__c",
+    "Label": "File Scan"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDn"
+    },
+    "QualifiedApiName": "HealthCloudGA__FilterColumn__c",
+    "Label": "Filter Column"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDo"
+    },
+    "QualifiedApiName": "HealthCloudGA__FilterCondition__c",
+    "Label": "Filter Condition"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDp"
+    },
+    "QualifiedApiName": "HealthCloudGA__FilterCriterion__c",
+    "Label": "Filter Criterion"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wY2"
+    },
+    "QualifiedApiName": "AFSC__FS_Template__c",
+    "Label": "FS Template"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNCv"
+    },
+    "QualifiedApiName": "HealthCloudGA__CarePlanGoal__c",
+    "Label": "Goal"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000e7GK"
+    },
+    "QualifiedApiName": "HolidayCalendar__c",
+    "Label": "Holiday Calendar"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNDx"
+    },
+    "QualifiedApiName": "HealthCloudGA__HousingAssessment__c",
+    "Label": "Housing Assessment"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXy"
+    },
+    "QualifiedApiName": "AFSC__FS_License_Assignment__c",
+    "Label": "License Assignment"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXo"
+    },
+    "QualifiedApiName": "AFSC__FSLink__c",
+    "Label": "Link"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Location"
+    },
+    "QualifiedApiName": "Location",
+    "Label": "Location"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNEd"
+    },
+    "QualifiedApiName": "sflib_LogEntry__c",
+    "Label": "Log Entry"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXz"
+    },
+    "QualifiedApiName": "AFSC__FS_ManualScanSetting__c",
+    "Label": "Manual Scan Setting"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dOVn"
+    },
+    "QualifiedApiName": "Notification__c",
+    "Label": "Notification"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xE3"
+    },
+    "QualifiedApiName": "OQSafeguard3__OpenQAttachment__c",
+    "Label": "OpenQAttachment"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xE4"
+    },
+    "QualifiedApiName": "OQSafeguard3__OpenQBatchError__c",
+    "Label": "OpenQBatchError"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xE5"
+    },
+    "QualifiedApiName": "OQSafeguard3__OpenQBatchLogDetail__c",
+    "Label": "OpenQBatchLogDetail"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xE6"
+    },
+    "QualifiedApiName": "OQSafeguard3__OpenQBatchLogExecution__c",
+    "Label": "OpenQBatchLogExecution"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/OperatingHours"
+    },
+    "QualifiedApiName": "OperatingHours",
+    "Label": "Operating Hours"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dOVt"
+    },
+    "QualifiedApiName": "Order__c",
+    "Label": "Order"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dOVq"
+    },
+    "QualifiedApiName": "OrderMilestones__c",
+    "Label": "Order Milestones"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNEA"
+    },
+    "QualifiedApiName": "HealthCloudGA__PatientCardViewConfiguration__c",
+    "Label": "Patient Card Configuration"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dOVx"
+    },
+    "QualifiedApiName": "PatientServicesEnrollee__c",
+    "Label": "Patient Support Enrollee"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01IH2000000p89t"
+    },
+    "QualifiedApiName": "SharedSlotQuota__c",
+    "Label": "Pooled Slot Quota"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNCw"
+    },
+    "QualifiedApiName": "HealthCloudGA__CarePlanProblem__c",
+    "Label": "Problem"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Product2"
+    },
+    "QualifiedApiName": "Product2",
+    "Label": "Product"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNEE"
+    },
+    "QualifiedApiName": "HealthCloudGA__Program__c",
+    "Label": "Program"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNEC"
+    },
+    "QualifiedApiName": "HealthCloudGA__ProgramPatientAffiliation__c",
+    "Label": "Program Patient Affiliation"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNED"
+    },
+    "QualifiedApiName": "HealthCloudGA__ProgramPatientSummary__c",
+    "Label": "Program Patient Summary"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNEF"
+    },
+    "QualifiedApiName": "HealthCloudGA__Provider__c",
+    "Label": "Provider"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wY1"
+    },
+    "QualifiedApiName": "AFSC__FS_Quarantine__c",
+    "Label": "Quarantine"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNEG"
+    },
+    "QualifiedApiName": "HealthCloudGA__ReciprocalRole__c",
+    "Label": "Reciprocal Role"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/SharingRecordCollection"
+    },
+    "QualifiedApiName": "SharingRecordCollection",
+    "Label": "Record Collection"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXp"
+    },
+    "QualifiedApiName": "AFSC__FSScanResultCacheItem__c",
+    "Label": "Scan Result Cache Item"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/ServiceAppointment"
+    },
+    "QualifiedApiName": "ServiceAppointment",
+    "Label": "Service Appointment"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/ServiceResource"
+    },
+    "QualifiedApiName": "ServiceResource",
+    "Label": "Service Resource"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/ServiceTerritory"
+    },
+    "QualifiedApiName": "ServiceTerritory",
+    "Label": "Service Territory"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017xE7"
+    },
+    "QualifiedApiName": "OQSafeguard3__OpenQBatchLog__c",
+    "Label": "SGC Batch Log"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/Shift"
+    },
+    "QualifiedApiName": "Shift",
+    "Label": "Shift"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNCq"
+    },
+    "QualifiedApiName": "HealthCloudGA__AccountAccountRelation__c",
+    "Label": "Site Information"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dOVz"
+    },
+    "QualifiedApiName": "SiteProduct__c",
+    "Label": "Site-Product"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I0w000000azY7"
+    },
+    "QualifiedApiName": "OQSafeguard3__Slava_label__c",
+    "Label": "Slava label"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01IH2000000p89u"
+    },
+    "QualifiedApiName": "Slot_Allocation_Summary__c",
+    "Label": "Slot Allocation Summary"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000015QtP"
+    },
+    "QualifiedApiName": "StagingEmployee__c",
+    "Label": "Staging Employee"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01IH2000000p89s"
+    },
+    "QualifiedApiName": "MonthlySlotQuota__c",
+    "Label": "Standard Slot Quota"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I0w000000azY8"
+    },
+    "QualifiedApiName": "OQSafeguard3__TestAdHoc__c",
+    "Label": "TestAdHoc"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e000000dNER"
+    },
+    "QualifiedApiName": "HealthCloudGA__TimelineViewConfiguration__c",
+    "Label": "Timeline View Configuration"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wY4"
+    },
+    "QualifiedApiName": "AFSC__FS_URL_Scan_Log__c",
+    "Label": "URL Scan"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000016wXq"
+    },
+    "QualifiedApiName": "AFSC__FSUsageStatistic__c",
+    "Label": "Usage Statistic"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I0w000000azY9"
+    },
+    "QualifiedApiName": "OQSafeguard3__Vacation__c",
+    "Label": "Vacation"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/01I1e0000017DYm"
+    },
+    "QualifiedApiName": "VinetiDeeplink__c",
+    "Label": "Vineti Deeplink"
+  },
+  {
+    "attributes": {
+      "type": "EntityDefinition",
+      "url": "/services/data/v56.0/sobjects/EntityDefinition/WorkTypeGroup"
+    },
+    "QualifiedApiName": "WorkTypeGroup",
+    "Label": "Work Type Group"
+  }
+]
