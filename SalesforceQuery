@@ -1,0 +1,30 @@
+======================================
+GET PROFILE PERMISSIONS QUERY
+======================================
+
+
+SELECT SObjectType, PermissionsRead, PermissionsCreate, PermissionsEdit, PermissionsDelete, PermissionsViewAllRecords, PermissionsModifyAllRecords, Parent.Profile.Name 
+FROM ObjectPermissions 
+WHERE Parent.Profile.Name IN ('Data Administrator','System Administrator')
+AND SObjectType IN ('Account','Contact')
+ORDER BY Parent.Profile.Name
+
+
+======================================
+GET OBJECT QUERY
+======================================
+
+SELECT QualifiedApiName, Label 
+FROM EntityDefinition
+WHERE QualifiedApiName IN ('Account','Contact')
+ORDER BY Label
+
+
+======================================
+GET PROFILE QUERY
+======================================
+
+SELECT Profile.Name 
+FROM Profile
+WHERE Profile.Name IN ('Data Administrator','System Administrator')
+ORDER BY Profile.Name
